@@ -1,4 +1,4 @@
-public class Lesson1 /*public class means your name of the program, you are not allow to put numbers Incorrect
+public class Lesson_1 /*public class means your name of the program, you are not allow to put numbers Incorrect
  file name examples:
 1234,Hello World, 100 helloworld. Correct examples: Hello_world, SE1235, HelloWorld.*/
 
