@@ -24,3 +24,11 @@ Learning how to use if, else and which statement is best to use.
 ### Lesson_8a:
 
 If statement challenge.
+
+### Lesson_9:
+
+Iteration / loops.
+
+### Lesson_10a:
+
+Understanding how math works in coding.
