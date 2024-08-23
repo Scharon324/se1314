@@ -32,3 +32,7 @@ Iteration / loops.
 ### Lesson_10a:
 
 Understanding how math works in coding.
+
+### Lesson_11b:
+
+Storing names into Arrays and printing them out all at once.
