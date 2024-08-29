@@ -1,5 +1,5 @@
 What is se1314 - Just a codename that Professor gave us nothing special to it.
-This is workshop from University heres summary of each file:
+This is workshop from University heres summary of each file it contains lessons and exercises:
 
 ### Lesson_1:
 
@@ -36,3 +36,15 @@ Understanding how math works in coding.
 ### Lesson_11b:
 
 Storing names into Arrays and printing them out all at once.
+
+### Lesson_12Ex:
+
+Challenge: print 0,1,3,6,10.
+
+### Lesson_14:
+
+How methods work, how file is shared and searching and sorting.
+
+### Lesson2_Exercise1:
+
+Ask the user to enter their first name, last name and age, print all three in one line.
