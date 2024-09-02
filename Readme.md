@@ -48,3 +48,7 @@ How methods work, how file is shared and searching and sorting.
 ### Lesson2_Exercise1:
 
 Ask the user to enter their first name, last name and age, print all three in one line.
+
+### Lesson_6_Exercise2:
+
+Challenge Complete the following: add user input, input if you are male or female.
