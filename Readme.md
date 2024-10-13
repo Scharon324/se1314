@@ -52,3 +52,7 @@ Ask the user to enter their first name, last name and age, print all three in on
 ### Lesson_6_Exercise2:
 
 Challenge Complete the following: add user input, input if you are male or female.
+
+### Lesson_6_Exercise:
+
+get age from user input if age is greater than 17 print You are an adult if age is <= 17 print you are a child
