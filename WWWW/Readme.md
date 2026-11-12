@@ -1,0 +1,1 @@
+The code defines a simple graphical application that draws a gray line from (5, 7) to (200, 200), labels it with the word "Line", and displays it in a window. The Main class extends JApplet, and the drawing is done in the paint(Graphics g) method. The main(String s[]) method sets up the frame and makes it visible.

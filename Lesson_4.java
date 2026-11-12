@@ -9,7 +9,7 @@ public class Lesson_4 {
 
         String firstname = "Andres";
         String SecondName = "Redacted";
-        String address = "33";
+        String address = "Redacted";
         int a = 360;
         int b = 50;
 
